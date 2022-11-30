@@ -14,12 +14,19 @@ const Home = ({ u }) => {
   );
 };
 const style = StyleSheet.create({
+  //view css
   h: {
     width: 200,
     backgroundColor: "lightblue",
     marginTop: 20,
     padding: 20,
-    fontVariant: "small-caps",
+    borderColor: "red",
+    borderRadius: 20,
+    borderWidth: 4,
+    opacity: 2,
+    shadowColor: "black",
+    shadowRadius: 20,
+    shadowOpacity: 20,
   },
 });
 
