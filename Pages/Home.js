@@ -19,6 +19,7 @@ const style = StyleSheet.create({
     backgroundColor: "lightblue",
     marginTop: 20,
     padding: 20,
+    fontVariant: "small-caps",
   },
 });
 
